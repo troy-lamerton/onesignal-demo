@@ -12,3 +12,5 @@
 6. Close app completely
 7. Open app
 8. Location always prompt appears!
+
+**Note:** In Player Settings for iOS, Background modes > Location updates must be enabled. In this project it is enabled.
